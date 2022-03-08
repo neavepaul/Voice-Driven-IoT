@@ -1,3 +1,4 @@
+#to check server status via cli
 import socket
 
 host = ''
