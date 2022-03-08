@@ -10,7 +10,6 @@ from neptuneExternals import *
 HEADERSIZE = 10
 client = {'R_LED': 0, 'Y_LED': 0, 'W_LED': 0, 'B_LED': 0, 'BUZZER_1': 0, 'BUZZER_5': 0, 'DISPLAY': ''}
 
-#TO WORK WITH PORT FORWARDING ON 7052
 host = 'neave.hopto.org'
 port = 7052 #random
 
