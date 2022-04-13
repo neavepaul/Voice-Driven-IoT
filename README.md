@@ -4,4 +4,6 @@ Powered by a server running on a raspberry-pi 4 and another pi with the devices 
 This app enables two devices to connect to a common server over the internet and communicate with each other.  
 Commands can be issued from any device capable of running python3.
 
+Attempting to create a python based cross-platform app to run the client program on a mobile device
+
 
