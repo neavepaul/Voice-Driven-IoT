@@ -72,7 +72,7 @@ while True:
             update_devices(client)
 
         else:
-            print("I GOT SOME UN-RECOGNIZED SHIT.")
+            print("I DON'T RECOGNISE THE DATA FORMAT.")
 
         new_msg = True
         full_msg = b''
